@@ -14,7 +14,7 @@ pip install -r requirement.txt
 ## NOTE
 
 There may be compatibility issue with the versions ```numpy``` in order for it to work with ```librosa``` imports:
-A manual reinstallation of both packages to get the current versions will work:
+A manual reinstallation of both packages to get the current versions for this code will work:
 
 ``` pip install numpy==1.26.4 ```
 ``` pip install librosa==0.10.2 ```
