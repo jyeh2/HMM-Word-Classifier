@@ -11,6 +11,9 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install everyth
 ```bash
 pip install -r requirement.txt
 ```
+## NOTE
+
+There may be a need to downgrade numpy in order for it for compatibility reasons with librosa imports:
 
 ## Usage
 
