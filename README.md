@@ -13,8 +13,11 @@ pip install -r requirement.txt
 ```
 ## NOTE
 
-There may be a need to downgrade ```numpy``` in order for it to work(for compatibility reasons) with ```librosa``` imports:
-A nice(weird) little work around that worked on my other was to uninstall numpy and install the latest ```librosa```. 
+There may be compatibility issue with the versions ```numpy``` in order for it to work with ```librosa``` imports:
+A manual reinstallation of both packages to get the current versions will work:
+
+``` pip install numpy==1.26.4 ```
+``` pip install librosa==0.10.2 ```
 
 Never a bad idea to start a venv just in case
 
