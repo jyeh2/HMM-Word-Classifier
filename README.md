@@ -14,6 +14,9 @@ pip install -r requirement.txt
 ## NOTE
 
 There may be a need to downgrade numpy in order for it for compatibility reasons with librosa imports:
+A nice(weird) little work around that worked on my other was to uninstall numpy and install the latest librosa. 
+
+Never a bad idea to start a venv just in case
 
 ## Usage
 
