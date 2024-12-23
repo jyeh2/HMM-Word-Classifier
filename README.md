@@ -26,7 +26,7 @@ Never a bad idea to start a venv just in case
 Please follow standard usage of Jupyter Notebook in running of this project.
 Or viewing the results as well as description of code to understand the architecture
 
-```
+
 
 ## Contributing
 
